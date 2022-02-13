@@ -1,6 +1,6 @@
 ﻿{
 "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-"spider":"https://gitee.com/wklb258/CatVodTVSpider/raw/master/jar/custom_spider.jar",
+"spider":"https://gitee.com/hd2019/CatVodTVSpider/raw/master/jar/custom_spider.jar",
 //"spider":"https://litecucumber.coding.net/p/cat/d/config/git/raw/master/custom_spider.txt",
 "sites":[
 
