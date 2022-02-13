@@ -1,7 +1,7 @@
 {
 "wallpaper": "https://api.yimian.xyz/img?type=wallpaper",
 //"spider":"https://gitee.com/wklb258/CatVodTVSpider/raw/master/jar/custom_spider.jar",
-//"spider":"https://litecucumber.coding.net/p/cat/d/config/git/raw/master/custom_spider.txt",
+"spider":"https://gitee.com/hd2019/CatVodTVSpider/raw/master/jar/custom_spider.jar",
 "sites":[
 
 {"key":"csp_appys_躺平影视","name":"躺平影视(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://www.lltpys.com/api.php/app/"},
